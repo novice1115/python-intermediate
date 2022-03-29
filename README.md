@@ -8,10 +8,10 @@ If you have not completed the python level 1 course, or do not know the fundamen
 
 ## Course Contents _(links will be updated accordingly)_
 
-1. **Python Package Management**
+1. [**Python Package Management**](course/c01_pip/)
     1. [Introduction to Symantic Versioning](course/c01_pip/c0101%20symver.md)
    2. [PIP and its usage](course/c01_pip/c0102%20pip.md)
-2. **Virtual Environments**
+2. [**Virtual Environments**](course/c02_virtual_environment/)
    1. [Introduction to virtual enviromnemts](course/c02_virtual_environment/c0201%20virtual%20environment%20introduction.md)
    2. [VENV and its usage](course/c02_virtual_environment/c0202%20venv.md)
    3. `pipenv` and its usage
